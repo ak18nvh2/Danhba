@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Danh bạ</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="add">add</string>
+    <string name="gender">Gender</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_number">Input Number</string>
+</resources>
